@@ -11,6 +11,5 @@ This project demonstrates an example of array sorting in C++ using the bubble so
 ## Build and Run
 
 1. **Clone repository**:
-   ``sh
    git clone https://github.com/cr33p3n/Array-Sorting.git
    cd array-sorting
